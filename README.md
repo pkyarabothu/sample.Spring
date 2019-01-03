@@ -80,6 +80,7 @@ Notwithstanding anything to the contrary, IBM PROVIDES THE SAMPLE SOURCE CODE ON
 [Liberty Gradle Plug-in]: https://github.com/WASdev/ci.gradle
 
 [Apache Maven]: http://maven.apache.org
+
 [Gradle]: https://gradle.org/
 
 [Maven Central]: https://search.maven.org/
